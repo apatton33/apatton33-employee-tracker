@@ -13,6 +13,7 @@ Once the user runs and nmp install they will be able to log into their mysql thr
 ```
 
 ### Walkthrough Video Link
+https://drive.google.com/file/d/1PHtTKH6Q_oe7vmhlbt_bJHntP1fEWUvK/view
 
 
 
